@@ -143,4 +143,8 @@ STORE_NAME=Jewelry Store
 STORE_DESCRIPTION=We sell beautiful handcrafted jewelry...
 ```
 
+## 🎥 Demo
+[▶ Watch the AI chatbot demo](https://drive.google.com/file/d/1QcOXEmNKeYGkg_OafHpiExeEqNwd7FsO/view?usp=sharing)
+
+
 > ⚠️ Never commit the `.env` file to Git.
